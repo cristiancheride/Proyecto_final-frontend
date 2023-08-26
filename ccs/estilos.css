@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(238, 55, 107);
+}
+
+section {
+    width:500px;
+    border:50px;
+    padding: 40px;
+    margin:10px;
+}
+
+* {
+    color:black; 
+    width:500px;
+    text-align: center;
+}
+
+p {
+    color:indigo;
+    text-align: justify;
+}
+
+h3 {
+    color:indigo;
+    text-align: center;
+}
+
+th {
+    text-align: left;
+}
+
+td {
+    text-align: right;
+}
+
+button {
+    background-color: yellow;
+}
